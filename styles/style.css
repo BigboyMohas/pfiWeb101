@@ -52,6 +52,7 @@ body{
     padding-right: 1%;
 }
 .titrePage{
+    font-family: monospace;
     text-align: center;
     color: white;
     font-style: italic;
